@@ -38,7 +38,7 @@
 }
 
 .Kk7lMc-ae3xF-tJHJj, .Q0hgme-Q7GJAc-NkyfNe-RFnRab-LYNcwc .Q0hgme-Q7GJAc-h1U9Be-xhiy4 {
-    background-color: #2d2d2d;
+    background-color: #373737;
 }
 
 .Kk7lMc-ae3xF-tJHJj-CZjX4e-AHe6Kc .Kk7lMc-ae3xF-tJHJj-OAU7Vd-Bz112c {
@@ -50,7 +50,7 @@
 }
 
 .Q0hgme-Q7GJAc-NkyfNe-RFnRab-LYNcwc .NkyfNe-RFnRab-s2gQvd {
-    background-color: #2D2D2D;
+    background-color: #373737;
 }
 
 .Q0hgme-Q7GJAc-NkyfNe-RFnRab-LYNcwc .RmniWd-rymPhb-h1U9Be {
@@ -99,7 +99,8 @@
 }
 
 .gB {
-    background-color: rgba(32,33,36,0.122);
+    background-color: rgba(216, 216, 216, 0.41) ;
+    border-radius: 5px;
     width: 85% ;
 }
 
@@ -227,6 +228,22 @@ div.aND.pp.aj3 {
     background-color: #3d3d3d;
 }
 
+div.aR6 {
+    font-size: 12px;
+}
+
+div.aR7 {
+    background-color: #ff7e0d;
+    border-radius: 20px;
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+div.aYR a {
+    color: #70e073;
+}
+
 div.adn.ads {
     background-color: #fffcf7;
     margin-left: 1em;
@@ -306,6 +323,14 @@ div.gb_Md.gb_3d.gb_Ud.gb_rc {
     background-color: #333333;
 }
 
+div.gb_Nd.gb_4d.gb_Vd.gb_sc {
+    background-color: #383838;
+}
+
+div.gb_Pd.gb_6d.gb_Xd.gb_uc {
+    background-color: #333333;
+}
+
 div.gmail_attr {
     color: #a1a1a1;
     font-size: 11px;
@@ -369,6 +394,10 @@ div.nH.oy8Mbf.nn.aeN {
 
 div.nM {
     background-color: #3d3d3d;
+}
+
+div.talk_loading_msg_error div {
+    color: #8a8a8a;
 }
 
 div.vh {
@@ -530,9 +559,5 @@ td.TC {
 td.apU>.T-KT.T-KT-Jp::before {
     border-radius: 2px;
     filter: saturate(1) brightness(85%) contrast(150%) ;
-}
-
-div.gb_Nd.gb_4d.gb_Vd.gb_sc {
-    background-color: #383838;
 }
 
